@@ -13,8 +13,8 @@ def breed
   @breed 
 end 
 
-def breed= (poodle)
-  @breed = "Poodle"
+def breed= (beagle)
+  @breed = "Beagle"
 end 
 end 
 
